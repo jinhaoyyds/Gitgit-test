@@ -7,5 +7,6 @@ public class CitTest {
         System.out.println("我是版本1.0.0");
         System.out.println("我是版本1.0.1");
         System.out.println("hot-fix  test");
+        System.out.println("我是master分支");
     }
 }
